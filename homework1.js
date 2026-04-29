@@ -1,6 +1,6 @@
-//Nombre y Apellido:
-//Curso: 
-//Grupo:
+//Nombre y Apellido: Tiziano Mestre
+//Curso: 6C
+//Grupo: 606
 //Taller de Programacion III
 //Departamento de Informatica - EESTn°1 - Raul Scalabrini Ortiz
 
@@ -9,7 +9,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null ;
+const nuevaString = "hola" ;
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
